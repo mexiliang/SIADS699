@@ -1,0 +1,112 @@
+﻿review_id,user_id,business_id,has_aspects_model_label,aspects_extracted_manual_label,aspect,Model Label,Manual Label,is_actual_restaurant
+b_mLN6YOXK50s9id9vA6og,YtDiXgpiP0d5zDmtMEUOow,KC8_Rx4Orlsz8LIonCYXsA,Y,Y,food,positive,positive,Y
+xobTDm7QNP0RU2CvzUCFBg,B5s_DCLVrBLrL8U6TEVlwA,SsHMgOW3TT48Z7jeV5beqQ,Y,Y,service,positive,negative,Y
+xobTDm7QNP0RU2CvzUCFBg,B5s_DCLVrBLrL8U6TEVlwA,SsHMgOW3TT48Z7jeV5beqQ,Y,N,food,not mentioned,neutral,Y
+yGwx4jEh9E3XzP-H6fnL-g,UqKi8B6uct0E6WttZI11KA,skY6r8WAkYqpV7_TxNm23w,Y,Y,food,positive,positive,Y
+yGwx4jEh9E3XzP-H6fnL-g,UqKi8B6uct0E6WttZI11KA,skY6r8WAkYqpV7_TxNm23w,Y,N,service,not mentioned,positive,Y
+JhJGDe-Yhmhc3K5r83FXAw,SG7mrQle0GJ0xx3gvz46kA,ziXR7sUrbKRCNeDqfjibUg,Y,Y,food,positive,positive,Y
+d0DL_ATF_qlNaPz7E3oKGQ,LM1Aleq_ozhEslRd2GUGEQ,CWdCNIJU4Kh480NV9dgQjw,N,Y,food,positive,not mentioned,N
+d0DL_ATF_qlNaPz7E3oKGQ,LM1Aleq_ozhEslRd2GUGEQ,CWdCNIJU4Kh480NV9dgQjw,Y,N,outdoor seating,not mentioned,positive,N
+xo5Y0KflbkaUeWKTObqx-g,tcK8-N7NON53V_9DQzVCWQ,O2lFAWD2WXXx5EKkzPutWQ,Y,Y,food,positive,negative,Y
+xo5Y0KflbkaUeWKTObqx-g,tcK8-N7NON53V_9DQzVCWQ,O2lFAWD2WXXx5EKkzPutWQ,Y,Y,service,positive,negative,Y
+xo5Y0KflbkaUeWKTObqx-g,tcK8-N7NON53V_9DQzVCWQ,O2lFAWD2WXXx5EKkzPutWQ,Y,N,hygiene,not mentioned,negative,Y
+pK74K9I6ngDWHXm4_T3bLw,ST4FzwQJ-14w1UuyIQE7LA,EtM079Cj7-B3G7jPsGYb_Q,Y,Y,experience,positive,positive,Y
+pK74K9I6ngDWHXm4_T3bLw,ST4FzwQJ-14w1UuyIQE7LA,EtM079Cj7-B3G7jPsGYb_Q,Y,Y,service,positive,positive,Y
+pK74K9I6ngDWHXm4_T3bLw,ST4FzwQJ-14w1UuyIQE7LA,EtM079Cj7-B3G7jPsGYb_Q,Y,N,food,not mentioned,positive,Y
+pK74K9I6ngDWHXm4_T3bLw,ST4FzwQJ-14w1UuyIQE7LA,EtM079Cj7-B3G7jPsGYb_Q,Y,N,atmosphere,not mentioned,positive,Y
+LKBI9oRXNBAA19-NEaPpKA,kqylFCPDzeqko_yuqNxCzA,cAbdvzqtFLaAAMFIyPf2AA,Y,Y,service,positive,positive,Y
+LKBI9oRXNBAA19-NEaPpKA,kqylFCPDzeqko_yuqNxCzA,cAbdvzqtFLaAAMFIyPf2AA,Y,N,food,not mentioned,positive,Y
+x7E8cAowybEi8KC-RyXF4Q,qunxFdBDVl0ordRJEPVNtQ,e_LmE84zjkowFcQUd4sdfw,Y,Y,food,positive,negative,Y
+O23xai9NIm99QCNbC25_2A,c0FmwXXpYvX804onqwdr0A,x2ly0NsSTMmMpljpdIZdYA,Y,Y,food,positive,positive,Y
+O23xai9NIm99QCNbC25_2A,c0FmwXXpYvX804onqwdr0A,x2ly0NsSTMmMpljpdIZdYA,Y,Y,service,positive,positive,Y
+iwFMf34p1Loe42ciUohEPA,lVlb5R_bjelkWi1N5YWUIg,vhWlxyLEWAbNOMtQ42yzFg,Y,Y,food,positive,negative,Y
+aiDFZp6vYz3ToV5wZtbZvg,ESOWmUjifdgQ3aLKrnAR1Q,i5C6RVgr03HSrgCl8oa1Fg,Y,N,food,not mentioned,positive,Y
+aiDFZp6vYz3ToV5wZtbZvg,ESOWmUjifdgQ3aLKrnAR1Q,i5C6RVgr03HSrgCl8oa1Fg,N,Y,service,positive,not mentioned,Y
+rAdGg1YTmx0IGmsfN3abqA,52FG2jSvR9QTPVc6nPaILw,AQw0B8j9QV1RkFLLFiwkuw,Y,Y,service,positive,positive,Y
+rAdGg1YTmx0IGmsfN3abqA,52FG2jSvR9QTPVc6nPaILw,AQw0B8j9QV1RkFLLFiwkuw,Y,Y,experience,positive,positive,Y
+rAdGg1YTmx0IGmsfN3abqA,52FG2jSvR9QTPVc6nPaILw,AQw0B8j9QV1RkFLLFiwkuw,Y,N,food,not mentioned,positive,Y
+yhcgHJ3OvP8mB1MjttQtBA,KlU35KQ1_D5XOhM7Yjjvdw,FAc2Mv92KL00cbLdpAc0kQ,Y,Y,food,positive,neutral,Y
+yhcgHJ3OvP8mB1MjttQtBA,KlU35KQ1_D5XOhM7Yjjvdw,FAc2Mv92KL00cbLdpAc0kQ,Y,N,wait time,not mentioned,negative,Y
+7iFnXR4vYFyTprEMbYixJA,QYznE18P8QjiBq6c970LKQ,m4kvY0viCwxqRtgOycnKVQ,Y,N,food,not mentioned,positive,Y
+7iFnXR4vYFyTprEMbYixJA,QYznE18P8QjiBq6c970LKQ,m4kvY0viCwxqRtgOycnKVQ,Y,N,service,not mentioned,positive,Y
+7iFnXR4vYFyTprEMbYixJA,QYznE18P8QjiBq6c970LKQ,m4kvY0viCwxqRtgOycnKVQ,Y,Y,seating,positive,positive,Y
+HFSX91ude5bpukfPke5GuQ,djkxAK48JxSC3zAyxdQU4w,vDBfhX1XI4uRWBCQQNRsUg,Y,Y,food,positive,positive,Y
+HFSX91ude5bpukfPke5GuQ,djkxAK48JxSC3zAyxdQU4w,vDBfhX1XI4uRWBCQQNRsUg,Y,Y,service,positive,positive,Y
+HFSX91ude5bpukfPke5GuQ,djkxAK48JxSC3zAyxdQU4w,vDBfhX1XI4uRWBCQQNRsUg,Y,N,setting,not mentioned,positive,Y
+vZKc0ZxisXFAmraAZTFDeA,0zVNLGyQ1PS_AQQUEJTN4A,v7dKKlpLH36GQTIX5qIReQ,Y,Y,service,positive,negative,Y
+vZKc0ZxisXFAmraAZTFDeA,0zVNLGyQ1PS_AQQUEJTN4A,v7dKKlpLH36GQTIX5qIReQ,Y,N,food,not mentioned,negative,Y
+PPkyLjYNnjvl27ATTEgYLg,6GJp_ldD-GrZNHPcuVN3gA,S3QHy1sshUeZwXOYviVsXQ,Y,Y,food,positive,negative,Y
+PPkyLjYNnjvl27ATTEgYLg,6GJp_ldD-GrZNHPcuVN3gA,S3QHy1sshUeZwXOYviVsXQ,Y,N,prices,not mentioned,negative,Y
+smxZB98-kAIeqixaNWTFEg,_VyPL1LcqrSOhvdli4KKBA,0cWnURpfrb4MqKSzyVN4SQ,Y,Y,service,positive,positive,Y
+smxZB98-kAIeqixaNWTFEg,_VyPL1LcqrSOhvdli4KKBA,0cWnURpfrb4MqKSzyVN4SQ,Y,N,food,not mentioned,positive,Y
+smxZB98-kAIeqixaNWTFEg,_VyPL1LcqrSOhvdli4KKBA,0cWnURpfrb4MqKSzyVN4SQ,Y,N,prices,not mentioned,positive,Y
+smxZB98-kAIeqixaNWTFEg,_VyPL1LcqrSOhvdli4KKBA,0cWnURpfrb4MqKSzyVN4SQ,Y,N,atmosphere,not mentioned,positive,Y
+nhtqMu8SRflUbV4UjvRzFA,ZMhj89tR9XyHa7MgHSvY7Q,NTLvzcGNm4IUF_yXIwIhvA,Y,Y,seating,positive,positive,Y
+nhtqMu8SRflUbV4UjvRzFA,ZMhj89tR9XyHa7MgHSvY7Q,NTLvzcGNm4IUF_yXIwIhvA,Y,N,food,not mentioned,positive,Y
+qwnvaBXv_JYVAw4g1q4QCA,H6OsaA5HSACyTSrYsmoPTA,RX3gzXCiKOe2vI7zyB20mg,Y,Y,service,positive,positive,Y
+qwnvaBXv_JYVAw4g1q4QCA,H6OsaA5HSACyTSrYsmoPTA,RX3gzXCiKOe2vI7zyB20mg,Y,N,seating,not mentioned,positive,Y
+qwnvaBXv_JYVAw4g1q4QCA,H6OsaA5HSACyTSrYsmoPTA,RX3gzXCiKOe2vI7zyB20mg,Y,N,food,not mentioned,positive,Y
+oGk4fN9cziGQUd0TK5YLoQ,MhwPteCFP8-lyy2atVS0JQ,dinxDxiWFUkEpxpIzaGHMQ,Y,Y,food,positive,positive,Y
+oGk4fN9cziGQUd0TK5YLoQ,MhwPteCFP8-lyy2atVS0JQ,dinxDxiWFUkEpxpIzaGHMQ,Y,N,service,not mentioned,positive,Y
+aNVdf1V6Tqr0skGFkFiibA,lXrqKrufkd4Ygqhll5acQg,O2lFAWD2WXXx5EKkzPutWQ,Y,N,food,not mentioned,positive,Y
+aNVdf1V6Tqr0skGFkFiibA,lXrqKrufkd4Ygqhll5acQg,O2lFAWD2WXXx5EKkzPutWQ,Y,N,prices,not mentioned,positive,Y
+aNVdf1V6Tqr0skGFkFiibA,lXrqKrufkd4Ygqhll5acQg,O2lFAWD2WXXx5EKkzPutWQ,Y,Y,service,positive,mixed,Y
+vUWEcw3_DwdF1ayB2u73UA,OQSuVNDxzClNyZ07o9HFHg,cAbdvzqtFLaAAMFIyPf2AA,Y,Y,service,positive,negative,Y
+vUWEcw3_DwdF1ayB2u73UA,OQSuVNDxzClNyZ07o9HFHg,cAbdvzqtFLaAAMFIyPf2AA,Y,N,food,not mentioned,negative,Y
+eI3Z-jmBtT-BzSGGcWxRsQ,sdyjEsGO3KrCG4sGXZYpMA,q6661I3CGW0UB740E5Zjfw,Y,Y,service,positive,negative,Y
+eI3Z-jmBtT-BzSGGcWxRsQ,sdyjEsGO3KrCG4sGXZYpMA,q6661I3CGW0UB740E5Zjfw,Y,N,food,not mentioned,negative,Y
+Mwtbgw9vXuuSwQQfJ6hiBw,IkLdv0dFGfRJrtFVJYJnLg,lXgITG2Ji6mhAPOmw4TRng,Y,Y,food,positive,positive,Y
+Mwtbgw9vXuuSwQQfJ6hiBw,IkLdv0dFGfRJrtFVJYJnLg,lXgITG2Ji6mhAPOmw4TRng,Y,N,prices,not mentioned,positive,Y
+Mwtbgw9vXuuSwQQfJ6hiBw,IkLdv0dFGfRJrtFVJYJnLg,lXgITG2Ji6mhAPOmw4TRng,N,Y,seating,positive,not mentioned,Y
+IKRVlUWW4GdR5Do68aZiYA,pQmfPt7rs-hPi2dYfkZiiA,9uJuBPIQyrC0v9pVv3JKRQ,Y,Y,food,positive,neutral,Y
+IKRVlUWW4GdR5Do68aZiYA,pQmfPt7rs-hPi2dYfkZiiA,9uJuBPIQyrC0v9pVv3JKRQ,Y,N,service,not mentioned,negative,Y
+MrqRV5cuDfsiAYOGOQRj0w,TDMcZjL-zDg8EqxS6ptEIA,skY6r8WAkYqpV7_TxNm23w,N,Y,food,positive,not mentioned,Y
+MrqRV5cuDfsiAYOGOQRj0w,TDMcZjL-zDg8EqxS6ptEIA,skY6r8WAkYqpV7_TxNm23w,Y,Y,service,positive,mixed,Y
+MrqRV5cuDfsiAYOGOQRj0w,TDMcZjL-zDg8EqxS6ptEIA,skY6r8WAkYqpV7_TxNm23w,Y,N,wait time,not mentioned,negative,Y
+MrqRV5cuDfsiAYOGOQRj0w,TDMcZjL-zDg8EqxS6ptEIA,skY6r8WAkYqpV7_TxNm23w,Y,N,location,not mentioned,negative,Y
+1L6-ZRRCzLHOCNSCk440YQ,pLCAOamEqBdkra_C_iH0Sw,3Wy21heeDm8h2tSZfcj6OA,Y,Y,food,positive,positive,Y
+2O6ZePyd_nCMk_IKV-gmqQ,sAYFRbpdW9SF5Do0T0sFvA,CkENBnSJFfPA1hY0qrqfCg,Y,Y,service,positive,positive,Y
+2O6ZePyd_nCMk_IKV-gmqQ,sAYFRbpdW9SF5Do0T0sFvA,CkENBnSJFfPA1hY0qrqfCg,Y,N,food,not mentioned,positive,Y
+kuSr-FSnwbf9c07EH64eAQ,my4q3Sy6Ei45V58N2l8VGw,DOfiulOub9hVPBCtiDl9Fw,Y,Y,seating,positive,neutral,Y
+kuSr-FSnwbf9c07EH64eAQ,my4q3Sy6Ei45V58N2l8VGw,DOfiulOub9hVPBCtiDl9Fw,Y,N,food,not mentioned,positive,Y
+NVEdodZdIp4c0q0chXGpEg,I4cYQCMoAwHYtIobH_4gbw,noiUCN8A9Vdm9pUbWX6K-w,Y,Y,service,positive,positive,Y
+NVEdodZdIp4c0q0chXGpEg,I4cYQCMoAwHYtIobH_4gbw,noiUCN8A9Vdm9pUbWX6K-w,Y,N,food,not mentioned,positive,Y
+NVEdodZdIp4c0q0chXGpEg,I4cYQCMoAwHYtIobH_4gbw,noiUCN8A9Vdm9pUbWX6K-w,Y,N,experience,not mentioned,positive,Y
+NVEdodZdIp4c0q0chXGpEg,I4cYQCMoAwHYtIobH_4gbw,noiUCN8A9Vdm9pUbWX6K-w,Y,N,seating,not mentioned,negative,Y
+qgn3Msic1ZIWVLUlbqfTRg,yF7uKfhXvJjyV4HjirY1pA,yPSejq3_erxo9zdVYTBnZA,Y,Y,seating,positive,positive,Y
+qgn3Msic1ZIWVLUlbqfTRg,yF7uKfhXvJjyV4HjirY1pA,yPSejq3_erxo9zdVYTBnZA,Y,Y,food,positive,positive,Y
+lpTAE3dSZ5YXFAvUnbzGuA,JiqUeiXgugNrmvJEOx7NyA,kbWKwvLXfJm5sLVfw-Foww,Y,Y,food,positive,positive,Y
+lpTAE3dSZ5YXFAvUnbzGuA,JiqUeiXgugNrmvJEOx7NyA,kbWKwvLXfJm5sLVfw-Foww,Y,N,service,not mentioned,positive,Y
+lpTAE3dSZ5YXFAvUnbzGuA,JiqUeiXgugNrmvJEOx7NyA,kbWKwvLXfJm5sLVfw-Foww,Y,N,prices,not mentioned,positive,Y
+4T8VQTK9C8VpPPrXN3JLeg,67cbPi1UORyC1gUdXkwkqw,YrNtBUOUOYwmRZ_UVwH8iQ,Y,Y,service,positive,negative,Y
+4T8VQTK9C8VpPPrXN3JLeg,67cbPi1UORyC1gUdXkwkqw,YrNtBUOUOYwmRZ_UVwH8iQ,Y,Y,experience,positive,negative,Y
+MOVXBlo2xsSe4MNxWcsmOg,i_9hsZNEBbjlC6qJM6zfHw,U3grYFIeu6RgAAQgdriHww,Y,Y,service,positive,positive,Y
+MOVXBlo2xsSe4MNxWcsmOg,i_9hsZNEBbjlC6qJM6zfHw,U3grYFIeu6RgAAQgdriHww,Y,N,view,positive,positive,Y
+qDrarYDFP1pPv2a-rV5r_w,hjWXDKtDerJEZBeW0dBVwg,oGDGlUbOjHxmmCh8ZYcDCg,Y,Y,food,positive,positive,Y
+GsOqHMd00jDeuXVzWcTQhw,V8i7ml1EzFdbT_KCMMvurg,x2ly0NsSTMmMpljpdIZdYA,Y,Y,service,positive,negative,Y
+GsOqHMd00jDeuXVzWcTQhw,V8i7ml1EzFdbT_KCMMvurg,x2ly0NsSTMmMpljpdIZdYA,Y,N,food,not mentioned,negative,Y
+XbfU1aF-HJv9JK-SB1XesQ,Fz0rDab_KuzIwNYAgt0IJg,VqcHpG3ODZ4KHBhbxcL4-Q,Y,Y,food,positive,negative,Y
+XbfU1aF-HJv9JK-SB1XesQ,Fz0rDab_KuzIwNYAgt0IJg,VqcHpG3ODZ4KHBhbxcL4-Q,Y,N,wait time,not mentioned,positive,Y
+XbfU1aF-HJv9JK-SB1XesQ,Fz0rDab_KuzIwNYAgt0IJg,VqcHpG3ODZ4KHBhbxcL4-Q,Y,N,prices,not mentioned,neutral,Y
+jOR8hXTQGb5lbINrH0Gg5w,8gQmqpdbonAyN39_5QbndQ,#NAME?,Y,Y,service,positive,negative,Y
+jOR8hXTQGb5lbINrH0Gg5w,8gQmqpdbonAyN39_5QbndQ,#NAME?,Y,N,food,not mentioned,negative,Y
+dlIO2WJ8JadkBPJE6dSjvw,1YFsuPfWiylHDFpbCBkH_w,Rl42JbSMsmNW3LRjsTMYAg,Y,Y,food,positive,positive,Y
+dlIO2WJ8JadkBPJE6dSjvw,1YFsuPfWiylHDFpbCBkH_w,Rl42JbSMsmNW3LRjsTMYAg,Y,Y,atmosphere,positive,positive,Y
+dlIO2WJ8JadkBPJE6dSjvw,1YFsuPfWiylHDFpbCBkH_w,Rl42JbSMsmNW3LRjsTMYAg,Y,N,hygiene,not mentioned,negative,Y
+L9hiTY7DvffBqrjjHEdZQA,emvy7_txcsOsaW5vTd5INQ,U3grYFIeu6RgAAQgdriHww,Y,Y,food,positive,positive,Y
+L9hiTY7DvffBqrjjHEdZQA,emvy7_txcsOsaW5vTd5INQ,U3grYFIeu6RgAAQgdriHww,Y,N,prices,not mentioned,positive,Y
+L9hiTY7DvffBqrjjHEdZQA,emvy7_txcsOsaW5vTd5INQ,U3grYFIeu6RgAAQgdriHww,Y,N,view,not mentioned,positive,Y
+rxN8B-26gk_k7Bum5qmQqA,qBLUO79LWidW9YGEa6BVDg,9u79dIXLQzmt9rnOZEnBaQ,Y,Y,food,positive,negative,Y
+LKAau8GE6iNZl0808_BvVQ,E4CgzU71_Y_QUfWAaubnkw,BErYojCJSO959vzaz9JclQ,Y,Y,food,positive,positive,Y
+2gFuqjMtLZM69DTy778wSA,HHmNGvm-pnKxzq52VC3Xzw,9kfN12wVGnKo54AaRjz0vQ,Y,Y,food,positive,positive,Y
+FldDy0KxknSNZloVMa58hQ,_yB6wENtqd_fMHSRBfAbAQ,xVtO6a4dqKQQzMXkSPL80A,N,Y,food,positive,not mentioned,N
+5JTUNFFBTD2VWIsSZTANvw,fJL1SZQvKsyv0IlV9NpdFA,3Wy21heeDm8h2tSZfcj6OA,Y,Y,service,positive,positive,Y
+5JTUNFFBTD2VWIsSZTANvw,fJL1SZQvKsyv0IlV9NpdFA,3Wy21heeDm8h2tSZfcj6OA,Y,N,food,not mentioned,positive,Y
+5JTUNFFBTD2VWIsSZTANvw,fJL1SZQvKsyv0IlV9NpdFA,3Wy21heeDm8h2tSZfcj6OA,Y,N,atmosphere,not mentioned,positive,Y
+nfmpoTtlxiy3gEhre_q-LQ,l7KkAsZIsUjGiv-0RW6yGw,9ugpNKKhnYRa51qXoxUw_A,Y,Y,food,positive,positive,Y
+nfmpoTtlxiy3gEhre_q-LQ,l7KkAsZIsUjGiv-0RW6yGw,9ugpNKKhnYRa51qXoxUw_A,Y,Y,service,positive,positive,Y
+ugtX0BwK2RK4gXoiEU2oqQ,2L3HqtSc3dQ2f3UtCmpFtQ,B3kpvT4oLJdQmU9lPnxdKA,Y,Y,service,positive,positive,Y
+ugtX0BwK2RK4gXoiEU2oqQ,2L3HqtSc3dQ2f3UtCmpFtQ,B3kpvT4oLJdQmU9lPnxdKA,Y,N,food,not mentioned,positive,Y
+ugtX0BwK2RK4gXoiEU2oqQ,2L3HqtSc3dQ2f3UtCmpFtQ,B3kpvT4oLJdQmU9lPnxdKA,Y,N,location,not mentioned,positive,Y
+AD131RFgZn3EmZuKXybC4A,L8nb-fqdNyXY70zUi1xETg,vi5xjfEhV6rnXrC_GbdhnA,Y,Y,food,positive,positive,Y
+AD131RFgZn3EmZuKXybC4A,L8nb-fqdNyXY70zUi1xETg,vi5xjfEhV6rnXrC_GbdhnA,Y,N,service,not mentioned,positive,Y
