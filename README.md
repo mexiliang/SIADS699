@@ -10,8 +10,20 @@ discover the aspects or dimensions and their sentiments in the review text. With
 ## Repo Layout
 ### /data 
 folder that contains data files we used in our modeling and result files that we conducted through manual evaluation of our model.
-### /model training
-folder that contains our model training
+### /1_Data_Preprocessing
+folder that contains the code to preprocess the Yelp reviews data
+### /2_Model
+folder that contains the code that includes all our models
+
+    ### /1_Topic_Modeling
+    Within the 2_Model folder we have this folder which includes all the code associated with Topic Modeling, namely LDA, NMF and BERTopic
+    
+    ### /2_ABSA
+    Within the 2_Model folder we have this folder which includes all the code associated with Aspect Based Sentiment Analysis, namely SetFit ABSA and Deberta based ABSA models
+    
+    ### /3_Recommender_Feature
+    Within the 2_Model folder we have this folder which includes the approach that finds the similar restaurant 
+    
 ### data_exploration.ipynb
 jupypter notebook we used for data cleaning and processing
 ### requirement.txt
