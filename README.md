@@ -15,17 +15,21 @@ folder that contains the code to preprocess the Yelp reviews data
 ### /2_Model
 folder that contains the code that includes all our models
 
-    ### /1_Topic_Modeling
+    /1_Topic_Modeling
     Within the 2_Model folder we have this folder which includes all the code associated with Topic Modeling, namely LDA, NMF and BERTopic
     
-    ### /2_ABSA
+    /2_ABSA
     Within the 2_Model folder we have this folder which includes all the code associated with Aspect Based Sentiment Analysis, namely SetFit ABSA and Deberta based ABSA models
     
-    ### /3_Recommender_Feature
+    /3_Recommender_Feature
     Within the 2_Model folder we have this folder which includes the approach that finds the similar restaurant 
     
-### data_exploration.ipynb
-jupypter notebook we used for data cleaning and processing
+### 3_Evaluation_Visualization
+folder that contains the evaluation of the various models and visualtization for Deberta models
+
+### 4_Result_files
+folder that contains the result files from the BERTopic model
+
 ### requirement.txt
 ```bash
 # install the required packages for our project
