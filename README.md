@@ -1,7 +1,7 @@
 # AspectAnalyzer
 
 ## Team Members
-Aparna Gopalakrishnan, Mexi Liang, Zoey Xu
+Aparna Gopalakrishnan, Mexi Liang, Xue Xu
 
 ## Introduction
 We intend to study Yelp reviews through Aspect-Based Sentiment Analysis (ABSA) to 
@@ -31,6 +31,13 @@ folder that contains the evaluation of the various models and visualtization for
 folder that contains the result files from the BERTopic model
 
 ### requirement.txt
+```bash
+# install the required packages for our project
+pip install -r requirement.txt
+```
+## Get started
+1. Download [california_restaurant.csv](https://drive.google.com/drive/u/0/folders/1qXAxWMqGp2nNc_dIkvIRgi7S9OUIU9Mt) dataset to data folder
+2. Get required packages
 ```bash
 # install the required packages for our project
 pip install -r requirement.txt
