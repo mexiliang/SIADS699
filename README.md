@@ -36,8 +36,9 @@ folder that contains the result files from the BERTopic model
 pip install -r requirement.txt
 ```
 ## Get started
-1. Download [california_restaurant.csv](https://drive.google.com/drive/u/0/folders/1qXAxWMqGp2nNc_dIkvIRgi7S9OUIU9Mt) dataset to data folder
-2. Get required packages
+1. Download [california_restaurant.csv](https://drive.google.com/drive/u/0/folders/1qXAxWMqGp2nNc_dIkvIRgi7S9OUIU9Mt) dataset to data folder and you can get started with 2_model code
+2. If you want to access the original Yelp reviews data set and explore the initial data set, then follow the steps mentioned [here](https://github.com/mexiliang/SIADS699/blob/main/1_Data_Preprocessing/data_preprocess_exploration.ipynb)
+3. Get required packages
 ```bash
 # install the required packages for our project
 pip install -r requirement.txt
